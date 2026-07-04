@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=hollyntt;Developer+%7C+Creator;VRChat+Enthusiast;Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=hollyntt;Developer+%7C+Creator;VRChat+Enthusiast;Building+Cool+Stuff" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=hollyntt&color=00D9FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/hollyntt?style=flat-square&color=00D9FF&label=Followers)
-![Total Stars](https://img.shields.io/badge/Total%20Stars-5-00D9FF?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=hollyntt&color=FFD700&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/hollyntt?style=flat-square&color=FFD700&label=Followers)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-5-FFD700?style=flat-square)
 
 </div>
 
@@ -26,9 +26,9 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hollyntt&show_icons=true&theme=nightowl&hide_border=true&count_private=true)](https://github.com/hollyntt)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hollyntt&show_icons=true&theme=nightowl&hide_border=true&count_private=true&link=https://github.com/hollyntt)](https://github.com/hollyntt)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hollyntt&theme=nightowl&hide_border=true&layout=compact)](https://github.com/hollyntt)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hollyntt&theme=nightowl&hide_border=true&layout=compact&link=https://github.com/hollyntt?tab=repositories)](https://github.com/hollyntt?tab=repositories)
 
 </div>
 
@@ -102,19 +102,13 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 ---
 
-## 📊 Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username={GITHUB_USERNAME}&theme=nightowl&hide_border=true&radius=16)
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/{GITHUB_USERNAME})
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/{GITHUB_USERNAME})
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>](https://discord.gg/HgMtdpXYud)
+[<img src="https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"/>](https://hollyntt.github.io/)
 
 </div>
 
@@ -131,9 +125,9 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Feel+free+to+check+out+my+projects;Let's+build+something+awesome+together" alt="Thanks" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Feel+free+to+check+out+my+projects;Let's+build+something+awesome+together" alt="Thanks" />
 
-**Last Updated:** {datetime.now().strftime('%B %d, %Y at %H:%M UTC')} ✨
+**Last Updated:** {last_updated} ✨
 
 *This README is automatically generated and updates daily!*
 
