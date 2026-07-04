@@ -117,14 +117,14 @@ def generate_readme(repos: List[Dict[str, Any]]) -> str:
     last_updated = now.strftime('%B %d, %Y at %H:%M UTC')
     
     readme = f"""<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines={GITHUB_USERNAME};Developer+%7C+Creator;VRChat+Enthusiast;Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines={GITHUB_USERNAME};Developer+%7C+Creator;VRChat+Enthusiast;Building+Cool+Stuff" alt="Typing SVG" />
 </h1>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username={GITHUB_USERNAME}&color=00D9FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/{GITHUB_USERNAME}?style=flat-square&color=00D9FF&label=Followers)
-![Total Stars](https://img.shields.io/badge/Total%20Stars-{total_stars}-00D9FF?style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username={GITHUB_USERNAME}&color=FFD700&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/{GITHUB_USERNAME}?style=flat-square&color=FFD700&label=Followers)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-{total_stars}-FFD700?style=flat-square)
 
 </div>
 
@@ -252,7 +252,7 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/{GITHUB_USERNAME})
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>](https://discord.gg/HgMtdpXYud)
-[<img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>](https://hollyntt.github.io/)
+[<img src="https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"/>](https://hollyntt.github.io/)
 
 </div>
 
@@ -269,7 +269,7 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Feel+free+to+check+out+my+projects;Let's+build+something+awesome+together" alt="Thanks" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Feel+free+to+check+out+my+projects;Let's+build+something+awesome+together" alt="Thanks" />
 
 **Last Updated:** {last_updated} ✨
 
