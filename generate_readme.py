@@ -112,6 +112,10 @@ def generate_readme(repos: List[Dict[str, Any]]) -> str:
     total_stars = sum(r['stargazers_count'] for r in repos if not r['fork'])
     total_forks = sum(r['forks_count'] for r in repos if not r['fork'])
     
+    # Get current date/time properly
+    now = datetime.utcnow()
+    last_updated = now.strftime('%B %d, %Y at %H:%M UTC')
+    
     readme = f"""<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines={GITHUB_USERNAME};Developer+%7C+Creator;VRChat+Enthusiast;Building+Cool+Stuff" alt="Typing SVG" />
 </h1>
@@ -140,9 +144,9 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username={GITHUB_USERNAME}&show_icons=true&theme=nightowl&hide_border=true&count_private=true)](https://github.com/{GITHUB_USERNAME})
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username={GITHUB_USERNAME}&show_icons=true&theme=nightowl&hide_border=true&count_private=true&link=https://github.com/{GITHUB_USERNAME})](https://github.com/{GITHUB_USERNAME})
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={GITHUB_USERNAME}&theme=nightowl&hide_border=true&layout=compact)](https://github.com/{GITHUB_USERNAME})
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={GITHUB_USERNAME}&theme=nightowl&hide_border=true&layout=compact&link=https://github.com/{GITHUB_USERNAME}?tab=repositories)](https://github.com/{GITHUB_USERNAME}?tab=repositories)
 
 </div>
 
@@ -242,19 +246,13 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 ---
 
-## 📊 Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username={GITHUB_USERNAME}&theme=nightowl&hide_border=true&radius=16)
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/{GITHUB_USERNAME})
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/{GITHUB_USERNAME})
+[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>](https://discord.gg/HgMtdpXYud)
+[<img src="https://img.shields.io/badge/Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>](https://hollyntt.github.io/)
 
 </div>
 
@@ -273,7 +271,7 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Feel+free+to+check+out+my+projects;Let's+build+something+awesome+together" alt="Thanks" />
 
-**Last Updated:** {datetime.now().strftime('%B %d, %Y at %H:%M UTC')} ✨
+**Last Updated:** {last_updated} ✨
 
 *This README is automatically generated and updates daily!*
 
