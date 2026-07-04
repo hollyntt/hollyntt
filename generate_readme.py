@@ -246,7 +246,7 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 <div align="center">
 
-**Email:** hollynn@kittymail.com
+![Email](https://img.shields.io/badge/Email-runeaphobia%40keemail.me-FFD700?style=for-the-badge&logo=mail.ru&logoColor=black)
 
 </div>
 
