@@ -52,6 +52,7 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 | Project | Description | Language | Stars | Forks |
 |---------|-------------|----------|-------|-------|
+| **[hollyntt](https://github.com/hollyntt/hollyntt)** | this is just a readme thingy | Python | - | - |
 | **[hollyntt.github.io](https://github.com/hollyntt/hollyntt.github.io)** | No description | HTML | - | - |
 | **[VRChat-Unfriend-Manager](https://github.com/hollyntt/VRChat-Unfriend-Manager)** | VRC:UFM is a powerful, terminal-raised utility designed for managing your VRChat friends list with speed and precision. It allows you to bulk unfriend inactive users, re-add friends from backups, and organize your list without the limitations of the standard in-game or website UI. | C# | - | - |
 | **[Spicetify-Installer](https://github.com/hollyntt/Spicetify-Installer)** | Since spicetify doesnt have one cross-OS and simple than a double-click here is one that works regardless | C# | - | - |
@@ -102,13 +103,11 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 ---
 
-## 🔗 Connect With Me
+## 📧 Connect With Me
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/{GITHUB_USERNAME})
-[<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>](https://discord.gg/HgMtdpXYud)
-[<img src="https://img.shields.io/badge/Website-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website"/>](https://hollyntt.github.io/)
+**Email:** hollynn@kittymail.com
 
 </div>
 
@@ -126,8 +125,6 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 ---
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Feel+free+to+check+out+my+projects;Let's+build+something+awesome+together" alt="Thanks" />
-
-**Last Updated:** {last_updated} ✨
 
 *This README is automatically generated and updates daily!*
 
