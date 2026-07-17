@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hollyntt&color=FFD700&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/hollyntt?style=flat-square&color=FFD700&label=Followers)
-![Total Stars](https://img.shields.io/badge/Total%20Stars-4-FFD700?style=flat-square)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-5-FFD700?style=flat-square)
 
 </div>
 
@@ -40,7 +40,7 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 | Project | Description | Language | Stars | Forks |
 |---------|-------------|----------|-------|-------|
-| **[XOSC](https://github.com/hollyntt/XOSC)** | VRChat music OSC for linux | C# | ⭐ 4 | 🍴 3 |
+| **[XOSC](https://github.com/hollyntt/XOSC)** | VRChat music OSC for linux | C# | ⭐ 5 | 🍴 3 |
 
 </div>
 
@@ -86,7 +86,7 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 | Metric | Count |
 |--------|-------|
 | Total Repositories | 8 |
-| Total Stars | 4 |
+| Total Stars | 5 |
 | Total Forks | 3 |
 | Languages Used | 3 |
 
