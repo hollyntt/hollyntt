@@ -52,8 +52,8 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 | Project | Description | Language | Stars | Forks |
 |---------|-------------|----------|-------|-------|
-| **[NPCDisabler](https://github.com/hollyntt/NPCDisabler)** | No description | C# | - | - |
 | **[hollyntt](https://github.com/hollyntt/hollyntt)** | this is just a readme thingy | Python | - | - |
+| **[NPCDisabler](https://github.com/hollyntt/NPCDisabler)** | No description | C# | - | - |
 | **[hollyntt.github.io](https://github.com/hollyntt/hollyntt.github.io)** | Site basically | HTML | - | - |
 | **[VRChat-Unfriend-Manager](https://github.com/hollyntt/VRChat-Unfriend-Manager)** | VRC:UFM is a powerful, terminal-raised utility designed for managing your VRChat friends list with speed and precision. It allows you to bulk unfriend inactive users, re-add friends from backups, and organize your list without the limitations of the standard in-game or website UI. | C# | - | - |
 | **[Spicetify-Installer](https://github.com/hollyntt/Spicetify-Installer)** | Since spicetify doesnt have one cross-OS and simple than a double-click here is one that works regardless | C# | - | - |
