@@ -52,8 +52,8 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 | Project | Description | Language | Stars | Forks |
 |---------|-------------|----------|-------|-------|
-| **[hollyntt](https://github.com/hollyntt/hollyntt)** | this is just a readme thingy | Python | - | - |
 | **[hollyntt.github.io](https://github.com/hollyntt/hollyntt.github.io)** | Site basically | HTML | - | - |
+| **[hollyntt](https://github.com/hollyntt/hollyntt)** | this is just a readme thingy | Python | - | - |
 | **[NPCDisabler](https://github.com/hollyntt/NPCDisabler)** | No description | C# | - | - |
 | **[VRChat-Unfriend-Manager](https://github.com/hollyntt/VRChat-Unfriend-Manager)** | VRC:UFM is a powerful, terminal-raised utility designed for managing your VRChat friends list with speed and precision. It allows you to bulk unfriend inactive users, re-add friends from backups, and organize your list without the limitations of the standard in-game or website UI. | C# | - | - |
 | **[Spicetify-Installer](https://github.com/hollyntt/Spicetify-Installer)** | Since spicetify doesnt have one cross-OS and simple than a double-click here is one that works regardless | C# | - | - |
@@ -68,8 +68,8 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=ccsharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Platforms
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
