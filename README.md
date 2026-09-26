@@ -54,8 +54,8 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 | Project | Description | Language | Stars | Forks |
 |---------|-------------|----------|-------|-------|
 | **[hollyntt.github.io](https://github.com/hollyntt/hollyntt.github.io)** | Site basically | HTML | - | - |
-| **[VRChat-Quick-Launcher](https://github.com/hollyntt/VRChat-Quick-Launcher)** | A quick VRChat launcher based on the old Meownet launcher | C# | - | - |
 | **[hollyntt](https://github.com/hollyntt/hollyntt)** | this is just a readme thingy | Python | - | - |
+| **[VRChat-Quick-Launcher](https://github.com/hollyntt/VRChat-Quick-Launcher)** | A quick VRChat launcher based on the old Meownet launcher | C# | - | - |
 | **[RPNames](https://github.com/hollyntt/RPNames)** | No description | C# | - | - |
 | **[VCLYSS](https://github.com/hollyntt/VCLYSS)** | No description | C# | - | - |
 | **[NPCDisabler](https://github.com/hollyntt/NPCDisabler)** | No description | C# | - | - |
