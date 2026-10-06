@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hollyntt&color=FFD700&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/hollyntt?style=flat-square&color=FFD700&label=Followers)
-![Total Stars](https://img.shields.io/badge/Total%20Stars-7-FFD700?style=flat-square)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-21-FFD700?style=flat-square)
 
 </div>
 
@@ -40,8 +40,11 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 | Project | Description | Language | Stars | Forks |
 |---------|-------------|----------|-------|-------|
-| **[XOSC](https://github.com/hollyntt/XOSC)** | VRChat music OSC for linux | C# | ⭐ 6 | 🍴 3 |
-| **[VRChat-Unfriend-Manager](https://github.com/hollyntt/VRChat-Unfriend-Manager)** | VRC:UFM is a powerful, terminal-raised utility designed for managing your VRChat friends list with speed and precision. It allows you to bulk unfriend inactive users, re-add friends from backups, and organize your list without the limitations of the standard in-game or website UI. | C# | ⭐ 1 | 🍴 0 |
+| **[XOSC](https://github.com/hollyntt/XOSC)** | VRChat music OSC for linux | C# | ⭐ 7 | 🍴 3 |
+| **[VRChat-Unfriend-Manager](https://github.com/hollyntt/VRChat-Unfriend-Manager)** | VRC:UFM is a powerful, terminal-raised utility designed for managing your VRChat friends list with speed and precision. It allows you to bulk unfriend inactive users, re-add friends from backups, and organize your list without the limitations of the standard in-game or website UI. | C# | ⭐ 2 | 🍴 0 |
+| **[hollyntt.github.io](https://github.com/hollyntt/hollyntt.github.io)** | Site basically | HTML | ⭐ 1 | 🍴 0 |
+| **[hollyntt](https://github.com/hollyntt/hollyntt)** | this is just a readme thingy | Python | ⭐ 1 | 🍴 0 |
+| **[VRChat-Quick-Launcher](https://github.com/hollyntt/VRChat-Quick-Launcher)** | A quick VRChat launcher based on the old Meownet launcher | C# | ⭐ 1 | 🍴 0 |
 
 </div>
 
@@ -53,13 +56,6 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 | Project | Description | Language | Stars | Forks |
 |---------|-------------|----------|-------|-------|
-| **[hollyntt](https://github.com/hollyntt/hollyntt)** | this is just a readme thingy | Python | - | - |
-| **[hollyntt.github.io](https://github.com/hollyntt/hollyntt.github.io)** | Site basically | HTML | - | - |
-| **[VRChat-Quick-Launcher](https://github.com/hollyntt/VRChat-Quick-Launcher)** | A quick VRChat launcher based on the old Meownet launcher | C# | - | - |
-| **[RPNames](https://github.com/hollyntt/RPNames)** | No description | C# | - | - |
-| **[VCLYSS](https://github.com/hollyntt/VCLYSS)** | No description | C# | - | - |
-| **[NPCDisabler](https://github.com/hollyntt/NPCDisabler)** | No description | C# | - | - |
-| **[Spicetify-Installer](https://github.com/hollyntt/Spicetify-Installer)** | Since spicetify doesnt have one cross-OS and simple than a double-click here is one that works regardless | C# | - | - |
 
 </div>
 
@@ -71,8 +67,8 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=ccsharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Platforms
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
@@ -88,8 +84,8 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories | 11 |
-| Total Stars | 7 |
+| Total Repositories | 14 |
+| Total Stars | 21 |
 | Total Forks | 3 |
 | Languages Used | 3 |
 
