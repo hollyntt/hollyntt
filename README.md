@@ -42,9 +42,9 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 |---------|-------------|----------|-------|-------|
 | **[XOSC](https://github.com/hollyntt/XOSC)** | VRChat music OSC for linux | C# | ⭐ 7 | 🍴 2 |
 | **[VRChat-Unfriend-Manager](https://github.com/hollyntt/VRChat-Unfriend-Manager)** | VRC:UFM is a powerful, terminal-raised utility designed for managing your VRChat friends list with speed and precision. It allows you to bulk unfriend inactive users, re-add friends from backups, and organize your list without the limitations of the standard in-game or website UI. | C# | ⭐ 2 | 🍴 0 |
+| **[VRChat-Quick-Launcher](https://github.com/hollyntt/VRChat-Quick-Launcher)** | A quick VRChat launcher based on the old Meownet launcher | C# | ⭐ 1 | 🍴 0 |
 | **[hollyntt](https://github.com/hollyntt/hollyntt)** | this is just a readme thingy | Python | ⭐ 1 | 🍴 0 |
 | **[hollyntt.github.io](https://github.com/hollyntt/hollyntt.github.io)** | Site basically | HTML | ⭐ 1 | 🍴 0 |
-| **[VRChat-Quick-Launcher](https://github.com/hollyntt/VRChat-Quick-Launcher)** | A quick VRChat launcher based on the old Meownet launcher | C# | ⭐ 1 | 🍴 0 |
 
 </div>
 
