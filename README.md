@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hollyntt&color=FFD700&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/hollyntt?style=flat-square&color=FFD700&label=Followers)
-![Total Stars](https://img.shields.io/badge/Total%20Stars-22-FFD700?style=flat-square)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-23-FFD700?style=flat-square)
 
 </div>
 
@@ -42,9 +42,9 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 |---------|-------------|----------|-------|-------|
 | **[XOSC](https://github.com/hollyntt/XOSC)** | VRChat music OSC for linux | C# | ⭐ 7 | 🍴 2 |
 | **[VRChat-Unfriend-Manager](https://github.com/hollyntt/VRChat-Unfriend-Manager)** | VRC:UFM is a powerful, terminal-raised utility designed for managing your VRChat friends list with speed and precision. It allows you to bulk unfriend inactive users, re-add friends from backups, and organize your list without the limitations of the standard in-game or website UI. | C# | ⭐ 2 | 🍴 0 |
+| **[Steamalt](https://github.com/hollyntt/Steamalt)** | for linux! | C# | ⭐ 1 | 🍴 0 |
 | **[hollyntt](https://github.com/hollyntt/hollyntt)** | this is just a readme thingy | Python | ⭐ 1 | 🍴 0 |
 | **[hollyntt.github.io](https://github.com/hollyntt/hollyntt.github.io)** | Site basically | HTML | ⭐ 1 | 🍴 0 |
-| **[RPNames](https://github.com/hollyntt/RPNames)** | No description | C# | ⭐ 1 | 🍴 0 |
 
 </div>
 
@@ -84,8 +84,8 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories | 15 |
-| Total Stars | 22 |
+| Total Repositories | 16 |
+| Total Stars | 23 |
 | Total Forks | 2 |
 | Languages Used | 3 |
 
