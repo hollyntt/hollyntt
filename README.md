@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hollyntt&color=FFD700&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/hollyntt?style=flat-square&color=FFD700&label=Followers)
-![Total Stars](https://img.shields.io/badge/Total%20Stars-24-FFD700?style=flat-square)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-23-FFD700?style=flat-square)
 
 </div>
 
@@ -84,8 +84,8 @@ Passionate developer creating tools and utilities for the VRChat ecosystem and g
 
 | Metric | Count |
 |--------|-------|
-| Total Repositories | 17 |
-| Total Stars | 24 |
+| Total Repositories | 16 |
+| Total Stars | 23 |
 | Total Forks | 2 |
 | Languages Used | 3 |
 
